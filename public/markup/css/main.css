@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'bpg_supersquare_mtavruli';
+    src: url('../fonts/mtavruli/bpg_square_mtavruli_2009-webfont.woff2') format('woff2'),
+         url('../fonts/mtavruli/bpg_square_mtavruli_2009-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bpg_supersquareregular';
+    src: url('../fonts/squire/bpg_supersquare_2009-webfont.woff2') format('woff2'),
+         url('../fonts/squire/bpg_supersquare_2009-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.box_11 h4, p.empty a, .sb-search-input, .megapanel{
+    font-family: 'bpg_supersquareregular';
+}
+.navTitles{
+    font-family: 'bpg_supersquare_mtavruli';
+}

@@ -21,7 +21,8 @@ body a{
 	-ms-transition:0.5s all;
 }
 .banner {
-	background: url(../images/3.jpg) no-repeat center top;
+	background-repeat: no-repeat;
+	background-position: center top;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
